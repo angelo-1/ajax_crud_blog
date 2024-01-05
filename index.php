@@ -13,8 +13,8 @@
             <div class="row">
                 <div class="col m-auto"><a href="create.php" class="btn btn-primary">Create</a></div>
                 <div class="col m-auto"><a href="view_blog.php" class="btn btn-primary">Read</a></div>
-                <div class="col m-auto"><a href="update.php" class="btn btn-primary">Update</a></div>
-                <div class="col m-auto"><a href="delete.php" class="btn btn-primary">Delete</a></div>
+                <div class="col m-auto"><a href="update.php" class="btn btn-primary">Update/Delete</a></div>
+                <!-- <div class="col m-auto"><a href="delete.php" class="btn btn-primary">Delete</a></div> -->
             </div>
         </div>
     </div>
